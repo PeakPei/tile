@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<dict>
+		<key>XPos</key>
+		<integer>200</integer>
+		<key>YPos</key>
+		<integer>100</integer>
+		<key>XScale</key>
+		<integer>255</integer>
+		<key>YScale</key>
+		<integer>255</integer>
+		<key>Rotation</key>
+		<string>0</string>
+		<key>ZOrder</key>
+		<string>0</string>
+	</dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>XPos</key>
+		<integer>90</integer>
+		<key>YPos</key>
+		<integer>100</integer>
+		<key>XScale</key>
+		<integer>355</integer>
+		<key>YScale</key>
+		<integer>355</integer>
+		<key>Rotation</key>
+		<string>0</string>
+		<key>ZOrder</key>
+		<string>1</string>
+	</dict>
+	<key>New item - 3</key>
+	<dict>
+		<key>XPos</key>
+		<integer>240</integer>
+		<key>YPos</key>
+		<integer>180</integer>
+		<key>XScale</key>
+		<integer>222</integer>
+		<key>YScale</key>
+		<integer>222</integer>
+		<key>Rotation</key>
+		<string>0</string>
+		<key>ZOrder</key>
+		<string>2</string>
+	</dict>
+	<key>New item - 4</key>
+	<dict>
+		<key>XPos</key>
+		<integer>70</integer>
+		<key>YPos</key>
+		<integer>215</integer>
+		<key>XScale</key>
+		<integer>244</integer>
+		<key>YScale</key>
+		<integer>379</integer>
+		<key>Rotation</key>
+		<string>0</string>
+		<key>ZOrder</key>
+		<string>3</string>
+	</dict>
+	<key>New item - 5</key>
+	<dict>
+		<key>XPos</key>
+		<integer>190</integer>
+		<key>YPos</key>
+		<integer>245</integer>
+		<key>XScale</key>
+		<integer>250</integer>
+		<key>YScale</key>
+		<integer>400</integer>
+		<key>Rotation</key>
+		<string>0</string>
+		<key>ZOrder</key>
+		<string>4</string>
+	</dict>
+	<key>New item - 6</key>
+	<dict>
+		<key>XPos</key>
+		<integer>240</integer>
+		<key>YPos</key>
+		<integer>350</integer>
+		<key>XScale</key>
+		<integer>250</integer>
+		<key>YScale</key>
+		<integer>400</integer>
+		<key>Rotation</key>
+		<string>0</string>
+		<key>ZOrder</key>
+		<string>5</string>
+	</dict>
+	<key>New item - 7</key>
+	<dict>
+		<key>XPos</key>
+		<integer>100</integer>
+		<key>YPos</key>
+		<integer>410</integer>
+		<key>XScale</key>
+		<integer>340</integer>
+		<key>YScale</key>
+		<integer>345</integer>
+		<key>Rotation</key>
+		<string>0</string>
+		<key>ZOrder</key>
+		<string>6</string>
+	</dict>
+</dict>
+</plist>
